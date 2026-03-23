@@ -10,7 +10,7 @@
 
 ## 📌 Why This Project Exists
 
-> "Museums spend thousands on security systems that are either too complex to maintain or too simple to trust. We asked: what if a ₹1,000 device could do what a ₹1,00,000 system does?"
+> "Museums spend thousands on security systems that are either too complex to maintain or too simple to trust. We asked: what if a ₹2,000 device could do more than what a ₹1,00,000 system does?"
 
 LuxGuard is a working IoT prototype I co-built with my team to solve a real problem — protecting high-value items in spaces where professional security systems are unaffordable or inaccessible. It targets **small museums, boutique stores, personal collections, and exhibition spaces.**
 
@@ -26,7 +26,7 @@ This project was my deliberate attempt to move beyond theory and understand how 
 | Generic CCTV doesn't trigger on item displacement | Security teams can't react in real time; incidents are discovered after the fact |
 | No immediate alert to the right person | A camera recording is only useful after the crime, not during it |
 
-**LuxGuard's Solution:** A sub-₹1,200 smart device that detects item displacement, warns approaching visitors, and sends a live photo of the incident directly to the owner's phone — all within seconds.
+**LuxGuard's Solution:** A sub-₹2,000 smart device that detects item displacement, warns approaching visitors, and sends a live photo of the incident directly to the owner's phone — all within seconds.
 
 ---
 
@@ -84,7 +84,8 @@ This project was my deliberate attempt to move beyond theory and understand how 
 | FTDI Module | Flash firmware via USB | ₹150 |
 | USB Cable, jumper wires | Power + connections | ₹50 - 150 |
 | Cardboard + plastic pipe | Enclosure and sensor mounting | ₹30 - 300 |
-| **Total** | | **~₹780–₹1,540** |
+| **Total** | | **~₹780–₹1,540** | 
+>Budget ₹2,000 
 
 ---
 
